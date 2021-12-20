@@ -1,0 +1,22 @@
+.navbar-brand {
+    min-height: 55px;
+    padding: 0 15px 5 px;
+}
+
+footer {
+    width: 100%;
+    background-color: black;
+    padding: 5% 5% 10% 5%;
+    color: whitesmoke;
+}
+
+.icon {
+    max-width: 200px;
+}
+
+
+
+
+
+
+
